@@ -1,1 +1,3 @@
-console.log("Hello Boolean")
+let string = process.argv[2]
+
+console.log(string)
